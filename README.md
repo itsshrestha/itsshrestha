@@ -90,37 +90,6 @@ const rajesh = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshrestha&theme=github-compact&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/itsshrestha">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:sthrajesh007@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://rajeshshrestha2059.com.np/">
-  <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<div align="center">
 
 ### 💭 Developer Philosophy
 

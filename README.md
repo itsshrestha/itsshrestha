@@ -80,7 +80,6 @@ const rajesh = {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsshrestha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshrestha&theme=transparent&hide_border=true" />
 
 <br/>
 

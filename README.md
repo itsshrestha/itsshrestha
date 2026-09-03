@@ -78,8 +78,7 @@ const rajesh = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsshrestha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
+<img height="170" src="https://streak-stats.demolab.com?user=itsshrestha&theme=transparent&hide_border=true" />
 
 <br/>
 

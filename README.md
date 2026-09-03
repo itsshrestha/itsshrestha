@@ -78,23 +78,23 @@ const rajesh = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsshrestha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshrestha&theme=transparent&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshrestha&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshrestha&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -104,16 +104,16 @@ const rajesh = {
 
 <p align="center">
 
-<a href="https://rajeshshrestha2059.com.np/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://github.com/itsshrestha">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="mailto:sthrajesh007@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://rajeshshrestha2059.com.np/">
+  <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </p>
@@ -128,6 +128,6 @@ const rajesh = {
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=itsshrestha&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
 
 </div>

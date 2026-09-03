@@ -84,7 +84,6 @@ const rajesh = {
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=itsshrestha&theme=transparent&hide_border=true" />
 </div>
 
 ---

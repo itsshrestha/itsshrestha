@@ -1,45 +1,133 @@
-<h1 align="center">Hey 👋, I'm Rajesh Shrestha</h1>
+<div align="center">
 
-<p align="center">
-  Full-Stack Developer • Building ideas into digital experiences 🚀
-</p>
+# Hey there 👋 I'm Rajesh Shrestha
 
-<p align="center">
-  <a href="https://rajeshshrestha2059.com.np/">Portfolio</a> •
-  <a href="mailto:sthrajesh007@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/11PU5BeUZJs9CCAzBlTxEstSIkTfspwbz/view?usp=sharing">Resume</a>
-</p>
+### Full-Stack Developer from Nepal 🇳🇵
 
----
-
-### 👨‍💻 About Me
-
-* 🔭 Building modern web applications and exploring new technologies
-* 💡 Turning ideas into clean and functional digital experiences
-* 🌱 Always learning and improving
-* ⚡ Fun fact: I spend hours fixing bugs I created in minutes
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,graphql,mongodb,mysql,postgres,tailwind,php,linux,postman" />
-
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p>
-  📫 <a href="mailto:sthrajesh007@gmail.com">sthrajesh007@gmail.com</a><br/>
-  💻 <a href="https://rajeshshrestha2059.com.np/">rajeshshrestha2059.com.np</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+ideas+into+reality.;Turning+coffee+into+code.;Always+learning%2C+always+building." alt="Typing SVG" />
 
 <br/>
 
-<p align="center">
-  <i>Turning ideas into code, one commit at a time. 🚀</i>
+<a href="https://rajeshshrestha2059.com.np/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:sthrajesh007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const rajesh = {
+  location: "Nepal 🇳🇵",
+  role: "Full-Stack Developer",
+
+  currentlyBuilding: "Cool things for the web 🚀",
+
+  technologies: [
+    "React",
+    "Node.js",
+    "GraphQL",
+    "MongoDB",
+    "PostgreSQL"
+  ],
+
+  funFact: "I spend hours fixing bugs I created in minutes 🐛"
+};
+```
+
+<br/>
+
+## 🚀 What I Do
+
+* 💻 Build modern and responsive web applications
+* ⚡ Create full-stack experiences from frontend to backend
+* 🧠 Solve problems and constantly explore new technologies
+* 🌱 Always learning, building, and improving
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 </p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,php" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,linux,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://rajeshshrestha2059.com.np/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:sthrajesh007@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Developer Philosophy
+
+> *"Turning ideas into code, and code into experiences."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
+
+</div>

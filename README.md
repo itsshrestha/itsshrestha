@@ -97,6 +97,5 @@ const rajesh = {
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=itsshrestha&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
 
 </div>

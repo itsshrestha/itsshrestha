@@ -84,8 +84,7 @@ const rajesh = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshrestha&layout=compact&theme=transparent&hide_border=true" />
-
+<img height="170" src="https://streak-stats.demolab.com?user=itsshrestha&theme=transparent&hide_border=true" />
 </div>
 
 ---

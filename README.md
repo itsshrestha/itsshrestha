@@ -7,10 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+ideas+into+reality.;Turning+coffee+into+code.;Always+learning%2C+always+building." alt="Typing SVG" />
 
 <br/>
-
 <a href="https://rajeshshrestha2059.com.np/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  
 </a>
 
 <a href="mailto:sthrajesh007@gmail.com">

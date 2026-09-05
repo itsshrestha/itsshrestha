@@ -9,7 +9,6 @@
 <br/>
 
 <a href="https://rajeshshrestha2059.com.np/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="mailto:sthrajesh007@gmail.com">
